@@ -1,44 +1,38 @@
 [
   {
-    "id": 123456789,
-    "name": "Dana",
-    "phone": "123456",
+    "id": 234567235,
+    "name": "Avi Cohen",
+    "phone": "0527654321",
     "address": "Tel Aviv"
   },
   {
-    "id": "101",
-    "name": "Alice Smith",
-    "phone": "555-1234",
-    "address": "123 Maple Street, Springfield"
+    "id": 345678740,
+    "name": "Noa Levi",
+    "phone": "0509876543",
+    "address": "Jerusalem"
   },
   {
-    "id": "102",
-    "name": "Bob Johnson",
-    "phone": "555-5678",
-    "address": "456 Oak Avenue, Metropolis"
-  },
-  {
-    "id": "103",
-    "name": "Charlie Brown",
-    "phone": "555-9012",
-    "address": "789 Pine Road, Gotham"
-  },
-  {
-    "id": "104",
-    "name": "Diana Prince",
-    "phone": "555-3456",
-    "address": "321 Elm Drive, Themyscira"
-  },
-  {
-    "id": "105",
-    "name": "Ethan Hunt",
-    "phone": "555-7890",
-    "address": "987 Cedar Lane, Langley"
-  },
-  {
-    "id": 123456790,
-    "name": "Tom",
-    "phone": "0501234567",
+    "id": 456789782,
+    "name": "David Mizrahi",
+    "phone": "0532468101",
     "address": "Haifa"
+  },
+  {
+    "id": 567890784,
+    "name": "Roni Shalev",
+    "phone": "0583332221",
+    "address": "Netanya"
+  },
+  {
+    "id": 678901287,
+    "name": "Lior Ben-Ami",
+    "phone": "0541234567",
+    "address": "Beer Sheva"
+  },
+  {
+    "id": 123456782,
+    "name": "Yael Rosen",
+    "phone": "0551231234",
+    "address": "Ramat Gan"
   }
 ]

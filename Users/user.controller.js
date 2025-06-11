@@ -1,5 +1,5 @@
-import { usersMap, saveUsersToFile } from './user.service.js';
-
+import { usersMap, saveUsersToFile,loadUsers } from './user.service.js';
+loadUsers();
 
 function isValidIsraeliID(id) {
   if (typeof id !== 'number' || id < 1000000 || id > 999999999) return false;
